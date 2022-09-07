@@ -11,7 +11,7 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [License](#license)
-  - [Resources](#resources)
+  - [Contributors](#contributors)
 
 ## User Story
 
@@ -67,4 +67,11 @@ No testing protocols were implemented in this application
 
 This application is licensed under the MIT License.
 
-## Resources
+## Contributors
+  [Kyle Bort](https://github.com/bortkyle18)
+
+  [Tom Hoffman](https://github.com/Tomhoffmanco)
+
+  [Caleb Barkman ](https://github.com/Caleb6826)
+  
+  [Jason Leitz](https://github.com/jleitz27)
